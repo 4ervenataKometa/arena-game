@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ArenaGame/1.0.0": {
+        "dependencies": {
+          "WeaponsLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ArenaGame.dll": {}
+        }
+      },
+      "WeaponsLibrary/1.0.0": {
+        "runtime": {
+          "WeaponsLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArenaGame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WeaponsLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

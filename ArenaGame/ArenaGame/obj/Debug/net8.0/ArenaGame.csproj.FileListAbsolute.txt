@@ -1,0 +1,27 @@
+C:\Projects\Lectures\2023-2024\OOP STD\ArenaGame\ArenaGame\bin\Debug\net8.0\ArenaGame.deps.json
+C:\Projects\Lectures\2023-2024\OOP STD\ArenaGame\ArenaGame\bin\Debug\net8.0\ArenaGame.dll
+C:\Projects\Lectures\2023-2024\OOP STD\ArenaGame\ArenaGame\bin\Debug\net8.0\ArenaGame.pdb
+C:\Projects\Lectures\2023-2024\OOP STD\ArenaGame\ArenaGame\obj\Debug\net8.0\ArenaGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Lectures\2023-2024\OOP STD\ArenaGame\ArenaGame\obj\Debug\net8.0\ArenaGame.AssemblyInfoInputs.cache
+C:\Projects\Lectures\2023-2024\OOP STD\ArenaGame\ArenaGame\obj\Debug\net8.0\ArenaGame.AssemblyInfo.cs
+C:\Projects\Lectures\2023-2024\OOP STD\ArenaGame\ArenaGame\obj\Debug\net8.0\ArenaGame.csproj.CoreCompileInputs.cache
+C:\Projects\Lectures\2023-2024\OOP STD\ArenaGame\ArenaGame\obj\Debug\net8.0\ArenaGame.dll
+C:\Projects\Lectures\2023-2024\OOP STD\ArenaGame\ArenaGame\obj\Debug\net8.0\refint\ArenaGame.dll
+C:\Projects\Lectures\2023-2024\OOP STD\ArenaGame\ArenaGame\obj\Debug\net8.0\ArenaGame.pdb
+C:\Projects\Lectures\2023-2024\OOP STD\ArenaGame\ArenaGame\obj\Debug\net8.0\ref\ArenaGame.dll
+C:\Users\elBenis\Desktop\ArenaGame\ArenaGame\bin\Debug\net8.0\ArenaGame.deps.json
+C:\Users\elBenis\Desktop\ArenaGame\ArenaGame\bin\Debug\net8.0\ArenaGame.dll
+C:\Users\elBenis\Desktop\ArenaGame\ArenaGame\bin\Debug\net8.0\ArenaGame.pdb
+C:\Users\elBenis\Desktop\ArenaGame\ArenaGame\bin\Debug\net8.0\WeaponsLibrary.dll
+C:\Users\elBenis\Desktop\ArenaGame\ArenaGame\bin\Debug\net8.0\WeaponsLibrary.pdb
+C:\Users\elBenis\Desktop\ArenaGame\ArenaGame\obj\Debug\net8.0\ArenaGame.csproj.AssemblyReference.cache
+C:\Users\elBenis\Desktop\ArenaGame\ArenaGame\obj\Debug\net8.0\ArenaGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elBenis\Desktop\ArenaGame\ArenaGame\obj\Debug\net8.0\ArenaGame.AssemblyInfoInputs.cache
+C:\Users\elBenis\Desktop\ArenaGame\ArenaGame\obj\Debug\net8.0\ArenaGame.AssemblyInfo.cs
+C:\Users\elBenis\Desktop\ArenaGame\ArenaGame\obj\Debug\net8.0\ArenaGame.csproj.CoreCompileInputs.cache
+C:\Users\elBenis\Desktop\ArenaGame\ArenaGame\obj\Debug\net8.0\ArenaGame.csproj.Up2Date
+C:\Users\elBenis\Desktop\ArenaGame\ArenaGame\obj\Debug\net8.0\ArenaGame.dll
+C:\Users\elBenis\Desktop\ArenaGame\ArenaGame\obj\Debug\net8.0\refint\ArenaGame.dll
+C:\Users\elBenis\Desktop\ArenaGame\ArenaGame\obj\Debug\net8.0\ArenaGame.pdb
+C:\Users\elBenis\Desktop\ArenaGame\ArenaGame\obj\Debug\net8.0\ref\ArenaGame.dll
+C:\Users\elBenis\Desktop\ArenaGame\ArenaGame\obj\Debug\net8.0\ArenaGame.sourcelink.json

@@ -1,0 +1,12 @@
+C:\Users\elBenis\Desktop\ArenaGame\WeaponsLibrary\bin\Debug\net8.0\WeaponsLibrary.deps.json
+C:\Users\elBenis\Desktop\ArenaGame\WeaponsLibrary\bin\Debug\net8.0\WeaponsLibrary.dll
+C:\Users\elBenis\Desktop\ArenaGame\WeaponsLibrary\bin\Debug\net8.0\WeaponsLibrary.pdb
+C:\Users\elBenis\Desktop\ArenaGame\WeaponsLibrary\obj\Debug\net8.0\WeaponsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elBenis\Desktop\ArenaGame\WeaponsLibrary\obj\Debug\net8.0\WeaponsLibrary.AssemblyInfoInputs.cache
+C:\Users\elBenis\Desktop\ArenaGame\WeaponsLibrary\obj\Debug\net8.0\WeaponsLibrary.AssemblyInfo.cs
+C:\Users\elBenis\Desktop\ArenaGame\WeaponsLibrary\obj\Debug\net8.0\WeaponsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\elBenis\Desktop\ArenaGame\WeaponsLibrary\obj\Debug\net8.0\WeaponsLibrary.dll
+C:\Users\elBenis\Desktop\ArenaGame\WeaponsLibrary\obj\Debug\net8.0\refint\WeaponsLibrary.dll
+C:\Users\elBenis\Desktop\ArenaGame\WeaponsLibrary\obj\Debug\net8.0\WeaponsLibrary.pdb
+C:\Users\elBenis\Desktop\ArenaGame\WeaponsLibrary\obj\Debug\net8.0\ref\WeaponsLibrary.dll
+C:\Users\elBenis\Desktop\ArenaGame\WeaponsLibrary\obj\Debug\net8.0\WeaponsLibrary.sourcelink.json
